@@ -42,7 +42,8 @@ class Beautifulsoup4Stack(Stack):
                 _lambda.Runtime.PYTHON_3_8,
                 _lambda.Runtime.PYTHON_3_9,
                 _lambda.Runtime.PYTHON_3_10,
-                _lambda.Runtime.PYTHON_3_11
+                _lambda.Runtime.PYTHON_3_11,
+                _lambda.Runtime.PYTHON_3_12
             ],
             description = 'BeautifulSoup 4.12.2 (https://www.crummy.com/software/BeautifulSoup))',
             layer_version_name = 'beautifulsoup4',
