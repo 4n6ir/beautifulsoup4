@@ -45,7 +45,7 @@ class Beautifulsoup4Stack(Stack):
                 _lambda.Runtime.PYTHON_3_11,
                 _lambda.Runtime.PYTHON_3_12
             ],
-            description = 'BeautifulSoup 4.12.2 (https://www.crummy.com/software/BeautifulSoup))',
+            description = 'BeautifulSoup 4.12.3 (https://www.crummy.com/software/BeautifulSoup))',
             layer_version_name = 'beautifulsoup4',
             license = 'Apache-2.0 License',
             removal_policy = RemovalPolicy.DESTROY
